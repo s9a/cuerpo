@@ -10,6 +10,11 @@
 
 > My body doesn't want your opinion.
 
+
+### `pt-BR`
+
+> Meu corpo não quer sua opinião
+
 ### translate
 
 [Suggest translation `=)`](../../issues/new)`
