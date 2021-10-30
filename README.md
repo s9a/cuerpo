@@ -1,6 +1,6 @@
-# cuerpo
+# [cuerpo <br> body](index.html)
 
-[**WEB POSTER**](https://s9a.github.io/cuerpo/)
+## [traducir <br> translate](../../issues/new)
 
 ### `es-CO`
 
@@ -15,6 +15,3 @@
 
 > Meu corpo não quer sua opinião
 
-### translate
-
-[Suggest translation `=)`](../../issues/new)`
